@@ -11,7 +11,7 @@ Improved DiceGame with C#
 
 ![GreedyChicken 21 12 2022 15_52_50](https://user-images.githubusercontent.com/75091068/208934348-e8f25035-4cd6-4315-af0d-fa0cee585f44.png)
 
-#INTRODUCTION
+# INTRODUCTION
 
 This game is played between 2-4 people in the range of 10-1000 points.
 Each player rolls the dice in his turn, and if the dice is 1, the whole number in his bank is reset.The player must manage to transfer the score in his bank to the overall score by making the right moves.The first player to reach the GOAL wins the game.
