@@ -22,4 +22,6 @@ You can set players name and colors from this form
 This is Game Form.
 You can start the game as many players as you want.
 
+#Thank you
+
   
